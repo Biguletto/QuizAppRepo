@@ -39,7 +39,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login - Flash Quiz App</title>
+    <title>Login - Flash Quiz Web</title>
     <style>
         :root {
             --grande-purple: #6a0dad;
